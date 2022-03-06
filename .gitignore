@@ -1,0 +1,5 @@
+*-backups/
+gerber*/
+
+# FreeCAD backup file
+*.FCStd1
